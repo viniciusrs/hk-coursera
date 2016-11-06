@@ -1,0 +1,49 @@
+body{
+	font-size: 1.1em;
+}
+
+fieldset{
+	margin-bottom: 10px;
+	background-color: lightyellow;
+	border: 10px solid yellow;
+	width: 720px;
+}
+
+label{
+	width: 180px;
+	text-align: right;
+	vertical-align: top;
+	display: inline-block;
+}
+
+.autoAlign{
+	width: auto;
+}
+
+textarea{
+	width: 350px;
+	height: 50px;
+	resize: none;
+}
+
+.backgroundPurple{
+	text-align: center;
+
+	color: white;
+	background-color: purple;
+	width: 50px;
+	padding: 4px 10px 4px 10px;
+}
+
+.backgroundRed{
+	text-align: center;
+
+	color: white;
+	background-color: red;
+	width: 50px;
+	padding: 4px 10px 4px 10px;
+}
+
+div:hover{
+	font-size: 2.0em;
+}
